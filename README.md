@@ -66,6 +66,6 @@ I learnt how to change a block element to make it appear inline with inline-bloc
 ## Author
 
 - Frontend Mentor - [@king-aggor](https://www.frontendmentor.io/profile/king-aggor)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@king_aggor](https://www.twitter.com/king_aggor)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
